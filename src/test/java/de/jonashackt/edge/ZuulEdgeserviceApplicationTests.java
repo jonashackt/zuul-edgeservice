@@ -1,4 +1,4 @@
-package de.jonashackt;
+package de.jonashackt.edge;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
